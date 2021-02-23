@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLModel>
+    <Presentations>
+        <Presentation id="0" title="Vorgangsmodelle (inkl. Agile Entwlicklung)" date="7.3.2021" student="Achleitner Dominik"/>
+        <Presentation id="1" title="Strukturpläne, Kostenschätzung" date="7.3.2021" student="Bodingbauer Lukas"/>
+        <Presentation id="2" title="Benutzerzentrierte Softwareentwicklungsprozesse" date="7.3.2021" student="Bogdan Eduard"/>
+        <Presentation id="3" title="Projektdefinition-Zieldefinition, Zeitplanung" date="" student="Derntl David"/>
+    </Presentations>
+</XMLModel>
