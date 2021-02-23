@@ -1,0 +1,10 @@
+pipeline{
+    target: any
+
+    stages{
+        stage('Build'){
+            sh: "mvn spring-boot:run"
+        }
+    }
+
+}
